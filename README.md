@@ -45,6 +45,6 @@ Contributions, bug reports, and feature requests are welcome! If you'd like to c
 
 ## Support
 
-If you have any questions or need support with the HR Analytical Dashboard, feel free to contact us at [your-email@example.com].
+If you have any questions or need support with the HR Analytical Dashboard, feel free to contact us at kennychrist2001@gmail.com.
 
 Happy data-driven HR decision making!
