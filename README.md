@@ -2,7 +2,7 @@
 
 The HR Analytical Dashboard is a powerful data visualization and analysis tool designed to provide valuable insights into employee attrition. This will help management make data-driven decisions, optimize workforce performance, and improve employee satisfaction.
 
-[](https://github.com/chris-theanalyst/HR-Analysis-with-Power-Bi/blob/36b5264d7d1cc4e7fcd2844d016e27fd8d3d77aa/HR%20dashboard.png)
+![](https://github.com/chris-theanalyst/HR-Analysis-with-Power-Bi/blob/36b5264d7d1cc4e7fcd2844d016e27fd8d3d77aa/HR%20dashboard.png)
 
 ## Features
 
